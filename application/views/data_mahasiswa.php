@@ -9,7 +9,7 @@
 <body>
     <div>
         <h1><center>DAFTAR MAHASISWA</center></h1>
-        <table align="center" border=1>
+        <table align="center" border=2>
             <thead>
                 <tr>
                     <th scope="col">NIM</th>
